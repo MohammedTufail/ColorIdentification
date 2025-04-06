@@ -16,3 +16,21 @@ This project is a part of our ongoing work where we aim to integrate a full-stac
 
 ## 📁 Project Structure
 
+
+---
+
+## 🛠️ Tech Stack
+
+- **Python 3.x**
+- **OpenCV**
+- **NumPy**
+- *(Future Additions: Flask, React, scikit-learn, etc.)*
+
+---
+
+## ✅ Installation & Setup
+
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/MohammedTufail/ColorIdentification.git
+   cd ColorIdentification

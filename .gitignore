@@ -1,0 +1,7 @@
+__pycache__/
+*.py[cod]
+*.ipynb_checkpoints
+.env
+*.zip
+.DS_Store
+.vscode/
